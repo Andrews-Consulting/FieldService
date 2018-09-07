@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "AC_Skill__c",
+                "referenceId": "AC_Skill__cRef1"
+            },
+            "Name": "Cable Installer",
+            "Number_of_Skill_Levels__c": 2,
+            "Skill_Level_Names__c": "Junior;Senior"
+        },
+        {
+            "attributes": {
+                "type": "AC_Skill__c",
+                "referenceId": "AC_Skill__cRef2"
+            },
+            "Name": "TV Installer",
+            "Number_of_Skill_Levels__c": 3,
+            "Skill_Level_Names__c": "Level 1;Level 2;Level 3"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>New</fullName>
+        <default>false</default>
+        <label>New</label>
+    </customValue>
+    <customValue>
+        <fullName>Refurbished</fullName>
+        <default>false</default>
+        <label>Refurbished</label>
+    </customValue>
+    <customValue>
+        <fullName>Used</fullName>
+        <default>false</default>
+        <label>Used</label>
+    </customValue>
+    <customValue>
+        <fullName>Returned</fullName>
+        <default>false</default>
+        <label>Returned</label>
+    </customValue>
+    <customValue>
+        <fullName>Defective</fullName>
+        <default>false</default>
+        <label>Defective</label>
+    </customValue>
+    <masterLabel>Inventory State</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

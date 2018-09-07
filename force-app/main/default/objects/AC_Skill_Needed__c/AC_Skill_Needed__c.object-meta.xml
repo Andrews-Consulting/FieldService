@@ -49,7 +49,7 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <label>AC Skill Needed</label>
@@ -57,7 +57,7 @@
         <label>AC Skill Needed Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>AC Skills Needed</pluralLabel>
+    <pluralLabel>Skills Needed</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

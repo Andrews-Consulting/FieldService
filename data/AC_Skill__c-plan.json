@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "AC_Skill__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "AC_Skill__cs.json"
+        ]
+    }
+]

@@ -52,13 +52,14 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>AC_Skill</label>
+    <label>AC Skill Assigned</label>
     <nameField>
-        <label>AC_Skills Name</label>
-        <type>Text</type>
+        <displayFormat>ASN-{00000}</displayFormat>
+        <label>AC Skill Assigned Number</label>
+        <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>AC_Skills</pluralLabel>
+    <pluralLabel>Skills Assigned</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
