@@ -243,7 +243,22 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AC_Service_Appointment__c.Estimated_Duration_minutes__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>AC_Service_Appointment__c.Location__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AC_Service_Appointment__c.Postal_Code__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>AC_Service_Appointment__c.Priority__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -409,6 +424,16 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AC_Work_Order__c.Customer__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>AC_Work_Order__c.Estimated_Duaration_minutes__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>AC_Work_Order__c.Priority__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

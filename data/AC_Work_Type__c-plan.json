@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "AC_Work_Type__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "AC_Work_Type__cs.json"
+        ]
+    }
+]

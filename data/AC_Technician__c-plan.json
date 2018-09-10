@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "AC_Technician__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "AC_Technician__cs.json"
+        ]
+    }
+]

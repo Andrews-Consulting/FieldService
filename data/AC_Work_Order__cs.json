@@ -1,0 +1,60 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "AC_Work_Order__c",
+                "referenceId": "AC_Work_Order__cRef1"
+            },
+            "Name": "WO-0000000",
+            "Customer__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v43.0/sobjects/Account/0010v00000F5qVQAAZ"
+                },
+                "Id": "0010v00000F5qVQAAZ"
+            },
+            "Work_Site__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v43.0/sobjects/Account/0010v00000F6C3zAAF"
+                },
+                "Id": "0010v00000F6C3zAAF"
+            },
+            "Work_Type__r": {
+                "attributes": {
+                    "type": "AC_Work_Type__c",
+                    "url": "/services/data/v43.0/sobjects/AC_Work_Type__c/a0B0v0000019IP3EAM"
+                },
+                "Id": "a0B0v0000019IP3EAM"
+            }
+        },
+        {
+            "attributes": {
+                "type": "AC_Work_Order__c",
+                "referenceId": "AC_Work_Order__cRef2"
+            },
+            "Name": "WO-0000001",
+            "Customer__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v43.0/sobjects/Account/0010v00000F5qVaAAJ"
+                },
+                "Id": "0010v00000F5qVaAAJ"
+            },
+            "Work_Site__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v43.0/sobjects/Account/0010v00000F6C49AAF"
+                },
+                "Id": "0010v00000F6C49AAF"
+            },
+            "Work_Type__r": {
+                "attributes": {
+                    "type": "AC_Work_Type__c",
+                    "url": "/services/data/v43.0/sobjects/AC_Work_Type__c/a0B0v0000019IPIEA2"
+                },
+                "Id": "a0B0v0000019IPIEA2"
+            }
+        }
+    ]
+}

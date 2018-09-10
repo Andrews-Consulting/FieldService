@@ -17,6 +17,42 @@
             "Name": "TV Installer",
             "Number_of_Skill_Levels__c": 3,
             "Skill_Level_Names__c": "Level 1;Level 2;Level 3"
+        },
+        {
+            "attributes": {
+                "type": "AC_Skill__c",
+                "referenceId": "AC_Skill__cRef3"
+            },
+            "Name": "Large Equipment Installer",
+            "Number_of_Skill_Levels__c": 3,
+            "Skill_Level_Names__c": "Level 1;Level 2;Level 3"
+        },
+        {
+            "attributes": {
+                "type": "AC_Skill__c",
+                "referenceId": "AC_Skill__cRef4"
+            },
+            "Name": "Software Installer",
+            "Number_of_Skill_Levels__c": 3,
+            "Skill_Level_Names__c": "Level 1;Level 2;Level 3"
+        },
+        {
+            "attributes": {
+                "type": "AC_Skill__c",
+                "referenceId": "AC_Skill__cRef5"
+            },
+            "Name": "Small Equipment Installer",
+            "Number_of_Skill_Levels__c": 3,
+            "Skill_Level_Names__c": "Level 1;Level 2;Level 3"
+        },
+        {
+            "attributes": {
+                "type": "AC_Skill__c",
+                "referenceId": "AC_Skill__cRef6"
+            },
+            "Name": "Maintenance",
+            "Number_of_Skill_Levels__c": 2,
+            "Skill_Level_Names__c": "Junior;Senior"
         }
     ]
 }

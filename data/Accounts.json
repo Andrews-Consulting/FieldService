@@ -1,0 +1,66 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Account4"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Customer Account3"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Customer Account2"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "Technician Holding Account1"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "Name": "Location Site 1",
+            "ShippingAddress": {
+                "city": "West Des Moines",
+                "country": "USA",
+                "geocodeAccuracy": null,
+                "latitude": null,
+                "longitude": null,
+                "postalCode": "50266",
+                "state": "IA",
+                "street": "2814 Woodland Place"
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "Name": "Location Site 2",
+            "ShippingAddress": {
+                "city": "Nevada",
+                "country": "USA",
+                "geocodeAccuracy": null,
+                "latitude": null,
+                "longitude": null,
+                "postalCode": "50201",
+                "state": "IA",
+                "street": "1037 10th"
+            }
+        }
+    ]
+}

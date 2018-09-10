@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "AC_Work_Type__c",
+                "referenceId": "AC_Work_Type__cRef1"
+            },
+            "Name": "Small Equipment Installation",
+            "Duration_Type__c": "Hours",
+            "Estimated_Duration__c": 8
+        },
+        {
+            "attributes": {
+                "type": "AC_Work_Type__c",
+                "referenceId": "AC_Work_Type__cRef2"
+            },
+            "Name": "Maintenance",
+            "Duration_Type__c": "Hours",
+            "Estimated_Duration__c": 1
+        },
+        {
+            "attributes": {
+                "type": "AC_Work_Type__c",
+                "referenceId": "AC_Work_Type__cRef3"
+            },
+            "Name": "Large Equipment Installation",
+            "Duration_Type__c": "Days",
+            "Estimated_Duration__c": 5
+        },
+        {
+            "attributes": {
+                "type": "AC_Work_Type__c",
+                "referenceId": "AC_Work_Type__cRef4"
+            },
+            "Name": "Software Installation",
+            "Duration_Type__c": "Hours",
+            "Estimated_Duration__c": 4
+        }
+    ]
+}
