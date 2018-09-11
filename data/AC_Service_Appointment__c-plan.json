@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "AC_Service_Appointment__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "AC_Service_Appointment__cs.json"
+        ]
+    }
+]

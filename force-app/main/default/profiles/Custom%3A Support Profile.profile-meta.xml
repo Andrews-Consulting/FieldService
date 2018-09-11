@@ -5,6 +5,10 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>Cluster</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -433,6 +437,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AC_Work_Order__c.Estimated_Duration__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AC_Work_Order__c.Priority__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -479,6 +488,46 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AC_Work_Type__c.Estimated_Duration__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.Cluster__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.Distance__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.Location__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.Mean__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.RefId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.Std_Dev__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.Variance__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationPair__c.index__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
@@ -546,6 +595,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>AC_Work_Type__c-Work Type Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>LocationPair__c-LocationPair Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>AC_Assigned_Appointment__c</tab>

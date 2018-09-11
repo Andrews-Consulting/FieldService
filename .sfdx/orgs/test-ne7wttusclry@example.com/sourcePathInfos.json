@@ -32,14 +32,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536337990738,
-            "changeTime": 1536337990738,
-            "contentHash": "71e5abc9ca2e8d2d1c1473f1265107225db63591",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1536706588829,
+            "changeTime": 1536706588829,
+            "contentHash": "a98ba580ffef15ac8dfb8eed3df2da94deed4302"
         }
     ],
     [
@@ -90,14 +90,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536349257584,
-            "changeTime": 1536349257584,
-            "contentHash": "238ed24cec90993880535f39dc8581960835ad42",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1536706588826,
+            "changeTime": 1536706588826,
+            "contentHash": "06fc87d344dd87753014a48f3ce3cdd2d67837a7"
         }
     ],
     [
@@ -148,14 +148,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts\\AC_Service_Appointment__c-Service Appointment Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts\\AC_Service_Appointment__c-Service Appointment Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4659,
             "modifiedTime": 1536589715661,
             "changeTime": 1536589715661,
-            "contentHash": "c9174064e86911c8f4572d8d8d8792f197f63c3a"
+            "contentHash": "c9174064e86911c8f4572d8d8d8792f197f63c3a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -228,14 +228,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts\\AC_Work_Order__c-Work Order Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts\\AC_Work_Order__c-Work Order Layout.layout-meta.xml",
             "isDirectory": false,
+            "size": 3240,
+            "modifiedTime": 1536590468029,
+            "changeTime": 1536590468029,
+            "contentHash": "ca55086351c48f789446b135b3f68297fb83d07f",
             "isMetadataFile": true,
-            "size": 3092,
-            "modifiedTime": 1536589715648,
-            "changeTime": 1536589715648,
-            "contentHash": "cb0e93ea89093241359dd27689ebf56910ce02b2"
+            "state": "u"
         }
     ],
     [
@@ -256,14 +256,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536337990981,
-            "changeTime": 1536337990981,
-            "contentHash": "5d4c80afce1cad5fe728844601a9282e24a15acd",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1536706588802,
+            "changeTime": 1536706588802,
+            "contentHash": "4959ad842ef9458eddbc8e0e00faba1cd477b5b3"
         }
     ],
     [
@@ -614,14 +614,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536589715627,
             "changeTime": 1536589715627,
-            "contentHash": "b14d16ea7343b3e9be70b2394a8ee0decaf344b8"
+            "contentHash": "b14d16ea7343b3e9be70b2394a8ee0decaf344b8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1487,10 +1487,10 @@
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 45965,
-            "modifiedTime": 1536589715742,
-            "changeTime": 1536589715742,
-            "contentHash": "3610d20ecf13d27d73b7a67aaac3b9b16147a9df"
+            "size": 48018,
+            "modifiedTime": 1536706588925,
+            "changeTime": 1536706588925,
+            "contentHash": "cccbdd20686858de39d6303d1f0ec524ce31cc89"
         }
     ],
     [
@@ -1500,10 +1500,10 @@
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 24941,
-            "modifiedTime": 1536589715757,
-            "changeTime": 1536589715757,
-            "contentHash": "41136eb76c5500168b6d532aecc0feee9f496a4c"
+            "size": 26657,
+            "modifiedTime": 1536706588956,
+            "changeTime": 1536706588956,
+            "contentHash": "7b3781f04ec1508478aefc93c0ff0c0d282a95bf"
         }
     ],
     [
@@ -1513,10 +1513,10 @@
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 24941,
-            "modifiedTime": 1536589715787,
-            "changeTime": 1536589715787,
-            "contentHash": "41136eb76c5500168b6d532aecc0feee9f496a4c"
+            "size": 26657,
+            "modifiedTime": 1536706588991,
+            "changeTime": 1536706588991,
+            "contentHash": "7b3781f04ec1508478aefc93c0ff0c0d282a95bf"
         }
     ],
     [
@@ -1526,10 +1526,10 @@
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 25279,
-            "modifiedTime": 1536589715771,
-            "changeTime": 1536589715771,
-            "contentHash": "2965171e3336ec538cf72627ea12d5ecc87b80f4"
+            "size": 26995,
+            "modifiedTime": 1536706588973,
+            "changeTime": 1536706588973,
+            "contentHash": "3638efe4400372daf1380726cf8952d1fdb3241b"
         }
     ],
     [
@@ -3496,14 +3496,14 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536589715638,
-            "changeTime": 1536589715638,
-            "contentHash": "69fab5c7d852826dc072246c420171a6f60e2706"
+            "modifiedTime": 1536590468023,
+            "changeTime": 1536590468023,
+            "contentHash": "69052db3ba3e1fdc42f48b679b41fc19233c1408",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -3613,66 +3613,274 @@
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields\\Estimated_Duration_minutes__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields\\Estimated_Duration_minutes__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 427,
             "modifiedTime": 1536589715625,
             "changeTime": 1536589715625,
-            "contentHash": "344ab7b31c49bcb8f59881d056079e55c33ae61f"
+            "contentHash": "344ab7b31c49bcb8f59881d056079e55c33ae61f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1536589715626,
             "changeTime": 1536589715626,
-            "contentHash": "765dd1fc793fd3d037c2c695ed7ba910aefdbd05"
+            "contentHash": "765dd1fc793fd3d037c2c695ed7ba910aefdbd05",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields\\Priority__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Service_Appointment__c\\fields\\Priority__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 389,
             "modifiedTime": 1536589715627,
             "changeTime": 1536589715627,
-            "contentHash": "d5d5b84ee1ce4219139349dbe264df61972a6349"
+            "contentHash": "d5d5b84ee1ce4219139349dbe264df61972a6349",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields\\Estimated_Duaration_minutes__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields\\Estimated_Duaration_minutes__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 429,
             "modifiedTime": 1536589715637,
             "changeTime": 1536589715637,
-            "contentHash": "37e8f883543568742b8d71e50ba727921dcb2f3b"
+            "contentHash": "37e8f883543568742b8d71e50ba727921dcb2f3b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields\\Priority__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields\\Priority__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 389,
             "modifiedTime": 1536589715638,
             "changeTime": 1536589715638,
-            "contentHash": "d5d5b84ee1ce4219139349dbe264df61972a6349"
+            "contentHash": "d5d5b84ee1ce4219139349dbe264df61972a6349",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields\\Estimated_Duration__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\AC_Work_Order__c\\fields\\Estimated_Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1536590468023,
+            "changeTime": 1536590468023,
+            "contentHash": "097596f4215f0e15b0f85377e90be343d8a5ccd5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\LocationPair__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\LocationPair__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2151,
+            "modifiedTime": 1536706588805,
+            "changeTime": 1536706588805,
+            "contentHash": "9e0db690529935b85531a6ef9906c9bd750bed1a"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Cluster__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Cluster__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1536706588806,
+            "changeTime": 1536706588806,
+            "contentHash": "958b934bae4d63d81529b1b8492278cadac8934b"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Distance__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Distance__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1536706588807,
+            "changeTime": 1536706588807,
+            "contentHash": "854b146363e94d8d13de339eda881f7ea633c03b"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1536706588807,
+            "changeTime": 1536706588807,
+            "contentHash": "17fec5214f73482df4595323f6b06b80292bf2cd"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Mean__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Mean__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 382,
+            "modifiedTime": 1536706588809,
+            "changeTime": 1536706588809,
+            "contentHash": "67c66190216b72f9ad2deccf205a0695011ea917"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\RefId__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\RefId__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1536706588809,
+            "changeTime": 1536706588809,
+            "contentHash": "9ec35bdb91f970062c4749468e5f1957e7e9421a"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Std_Dev__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Std_Dev__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1536706588810,
+            "changeTime": 1536706588810,
+            "contentHash": "688cc5103091d461945783ad2431aa3761e7cbf8"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Variance__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\Variance__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1536706588811,
+            "changeTime": 1536706588811,
+            "contentHash": "0097377323dcded777ee0f638a48a90b46f806b1"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\index__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields\\index__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 383,
+            "modifiedTime": 1536706588812,
+            "changeTime": 1536706588812,
+            "contentHash": "922029ca392ff95be11ec0ed1e716a495038de9b"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts\\LocationPair__c-LocationPair Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\layouts\\LocationPair__c-LocationPair Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3039,
+            "modifiedTime": 1536706588827,
+            "changeTime": 1536706588827,
+            "contentHash": "cab8774680f6888b424ed5d09ec59a69032f3a50"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\classes\\Cluster.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\classes\\Cluster.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1536706588829,
+            "changeTime": 1536706588829,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\classes\\Cluster.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\classes\\Cluster.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3837,
+            "modifiedTime": 1536706588834,
+            "changeTime": 1536706588834,
+            "contentHash": "061d3d2050c9b2c9e063a6733f642fb397145bd9"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536706588805,
+            "changeTime": 1536706588805,
+            "contentHash": "eda6bed0737fb1a45359056169aec0b1c4d59d28"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\objects\\LocationPair__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536706588812,
+            "changeTime": 1536706588812,
+            "contentHash": "abd06dc2607a34caff21ba76f718a89b74901d64"
+        }
+    ],
+    [
+        "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Chris\\Documents\\Dev\\SFDXOrgs\\ACFieldService\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536706588833,
+            "changeTime": 1536706588833,
+            "contentHash": "4dcbf72535a2caa9b9dd7c6072e351e47ea79390"
         }
     ]
 ]
