@@ -49,16 +49,16 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>LocationPair</label>
+    <label>LocationData</label>
     <nameField>
         <displayFormat>LP-{000000000}</displayFormat>
-        <label>LocationPair Name</label>
+        <label>LocationData Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>LocationPairs</pluralLabel>
+    <pluralLabel>LocationData</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

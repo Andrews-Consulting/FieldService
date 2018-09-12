@@ -9,6 +9,10 @@
         <apexClass>Cluster</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>TestController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -492,42 +496,47 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.Cluster__c</field>
+        <field>LocationData__c.Cluster__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.Distance__c</field>
+        <field>LocationData__c.Distance__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.Location__c</field>
+        <field>LocationData__c.Fitness__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.Mean__c</field>
+        <field>LocationData__c.Location__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.RefId__c</field>
+        <field>LocationData__c.Mean__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.Std_Dev__c</field>
+        <field>LocationData__c.RefId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.Variance__c</field>
+        <field>LocationData__c.Std_Dev__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>LocationPair__c.index__c</field>
+        <field>LocationData__c.Variance__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>LocationData__c.index__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
@@ -600,7 +609,7 @@
         <layout>Contact-Contact Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>LocationPair__c-LocationPair Layout</layout>
+        <layout>LocationData__c-LocationPair Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -806,9 +815,13 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>LocationPair__c</object>
+        <object>LocationData__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>Test</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
     <tabVisibilities>
         <tab>AC_Assigned_Appointment__c</tab>
         <visibility>DefaultOn</visibility>
@@ -856,6 +869,10 @@
     <tabVisibilities>
         <tab>AC_Work_Type__c</tab>
         <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>LocationData__c</tab>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

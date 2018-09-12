@@ -1,0 +1,42 @@
+<apex:page controller="TestController">
+<apex:form >
+<apex:commandButton value="RecordSet1" action="{!RecordSet1}" />
+<apex:commandButton value="RecordSet2" action="{!RecordSet2}" />
+<apex:commandButton value="Calculate Cost" action="{!CalculateCost}" />
+ 
+<apex:pageBlock title="stats">
+	Std Dev. 1 :&nbsp; 
+	<apex:outputText id="stddev1" label="std dev 1" value="{!stddev1}"  />
+	<br />
+	Fitness 1 1 :&nbsp; 
+	<apex:outputText id="fitness11" value="{!fitness11}"  />
+	<br />
+
+	Std Dev. 2 :&nbsp;
+	<apex:outputText id="stddev2" label="std dev 2" value="{!stddev2}"  />
+	<br />
+	Fitness 1 2 :&nbsp; 
+	<apex:outputText id="fitness12" value="{!fitness12}"  />
+	<br />
+	Total Locations :&nbsp;
+	<apex:outputText id="numrecs" label="number of records" value="{!numRecs}" />
+	<br />
+</apex:pageBlock>
+
+ <apex:pageBlock title="Locations">
+      <apex:pageBlockTable value="{!locRecords}" var="loc">
+      	 <apex:column value="{!loc.Id}"/>
+         <apex:column value="{!loc.RefId__c}"/>
+         <apex:column value="{!loc.index__c}"/>
+         <apex:column value="{!loc.Cluster__c}"/>
+         <apex:column value="{!loc.Mean__c}"/>
+         <apex:column value="{!loc.Variance__c}"/>
+         <apex:column value="{!loc.Std_Dev__c}"/>
+         <apex:column value="{!loc.Location__Longitude__s}"/>
+         <apex:column value="{!loc.Location__Latitude__s}"/>
+         <apex:column value="{!loc.Distance__c}"/>
+      </apex:pageBlockTable>
+</apex:pageBlock>
+
+</apex:form>
+</apex:page>
