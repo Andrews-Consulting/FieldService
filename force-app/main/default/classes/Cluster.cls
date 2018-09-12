@@ -129,6 +129,9 @@ public with sharing class Cluster {
 
 	//
 	// Method 1 to find the right members for Cluster 1
+	// Pick out a set of locations, find the center
+	// go find everything that is close and move it into the cluster. 
+	// recheck and save if it looks good.
 	//
 	public static void buildCluster1(list<LocationData__c> locations) {
 		// assumes that clusters are built
@@ -169,11 +172,22 @@ public with sharing class Cluster {
 	}
 
 	//
+	//	Sort the location data based upon the Distance value.
+	//	Not sure if this is faster than writing my own sort for the limited number of elements in a cluster.
 	//
-	//
-	private static list<LocationData__c> SortDistance(list<LocationData__c> c) {
-		return c;
+	private static list<LocationData__c> SortDistance(list<LocationData__c> li_ld) {
+		list<LocationDataWrapper> ldwList = new List<LocationDataWrapper>();
+		for (LocationData__c ld : li_ld)
+			ldwList.add(new LocationDataWrapper(ld));
+
+		ldwList.sort();
+		list<LocationData__c> sortedList = new list<LocationData__c>();
+		for (Integer i = 0; i < ldwList.size(); i++)
+			sortedList.add(ldwList[i].ld);
+		return sortedList;
 	}
+
+
 
 	//
 	//  method to find the best Center within a single cluster using the Fitness1 calculation
